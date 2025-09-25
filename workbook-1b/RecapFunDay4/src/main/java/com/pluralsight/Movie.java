@@ -3,7 +3,7 @@ package com.pluralsight;
 
 public class Movie {
     public static void main(String[] args){
-        String movieTitle = "Batman";
+        String movieTitle = "Demon Slayer";
         int friends = 10;
         int mySelf = 1;
         double pizzaPerSlice = 3.50;
