@@ -17,7 +17,7 @@ public class VariableApp {
                 System.out.println("My middle initial starts with " + middleInitial );
                 //STEP 2:
                 int daysInWeek = 7;
-                double priceOfCoffee = 4.99;
+                double priceOfCoffee = 5.99;
                 char myFavoriteLetter = 'A';
                 boolean isRaining = true;
                 System.out.println("There are:" + daysInWeek + "in a week");
