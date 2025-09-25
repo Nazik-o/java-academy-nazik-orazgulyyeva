@@ -4,6 +4,10 @@ import java.util.Scanner;
 public class SandwichShop {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
+        /*
+        Exercise #1
+         */
+
         //Sandwich size
         System.out.println("Enter your sandwich size ,please: ");
         System.out.println("1: Regular: base price $5.45");
@@ -12,6 +16,7 @@ public class SandwichShop {
         int sizeChoice = scanner.nextInt();
 
         double basePrice;
+
 
         if (sizeChoice == 1){
             basePrice = 5.45;
@@ -22,6 +27,16 @@ public class SandwichShop {
             System.out.println("You have entered invalid choice ,defaulting to regular");
             basePrice = 5.45;
         }
+        //Ask if customer wants additional load for sandwich
+        System.out.print("Would you like your sandwich loaded? (yes/no): ");
+        String loadedChoice = scanner.next();
+
+        if (sizeChoice == 1 && loadedChoice.equalsIgnoreCase("yes")) {
+            basePrice += 1.00;
+        } else if (sizeChoice == 2 && loadedChoice.equalsIgnoreCase("yes")) {
+            basePrice += 1.75;
+        }
+
         //Ask for their age for discount
         System.out.println("Enter your age,for eligibility for a discount");
         int age = scanner.nextInt();
@@ -42,7 +57,9 @@ public class SandwichShop {
         }
         //calculation
         double finalPrice = basePrice - (basePrice * discount);
-        System.out.println("Final price of your sandwich is $ :" + finalPrice);
+        System.out.printf("Final price of your sandwich is: $%.2f%n", finalPrice);
+
+
 
         //closing scanner ,to limit memory leak
         scanner.close();
