@@ -18,22 +18,25 @@ public class Movie {
         /*
         //Challenge #1
         (Scanner scanner = new Scanner(System.in)
-            System.out.print("\nEnter movie title: ");
+            System.out.println("\nEnter movie title: ");
             movieTitle =scanner.nextLine();
+
             System.out.print("Enter number of friends: ");
             friends =scanner.nextInt();
-            System.out.print("Enter pizza price per slice (e.g., 3.50): ");
+
+            System.out.println("Enter pizza price per slice (e.g., 3.50): ");
             pizzaPerSlice =scanner.nextDouble();
 
-            System.out.print("Is there popcorn? (true/false): ");
-            hasPopcorn =scanner.nextBoolean();
+            System.out.println("Is there popcorn? (true/false): ");
+            hasPopcorn = scanner.nextBoolean();
 
             //Challenge 4 — Add Drinks
-            System.out.print("Enter drink price per person: ");
+            System.out.println("Enter drink price per person: ");
             double drinkPrice = scanner.nextDouble();
 
             int totalPeople = friends + mySelf;
             totalPizzaCost =pizzaPerSlice *totalPeople;
+
             double totalDrinkCost = drinkPrice * totalPeople;
             double grandTotal = totalPizzaCost + totalDrinkCost;
 
