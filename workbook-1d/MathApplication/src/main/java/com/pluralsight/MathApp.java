@@ -1,5 +1,5 @@
 package com.pluralsight;
-
+import java.util.Random;
 public class MathApp {
     public static void main(String[] args) {
 // Question 1:
@@ -50,8 +50,10 @@ public class MathApp {
         System.out.println("The absolute value of " + negativeValue + " is: " + absValue);
 
         //Question 7:
-        double randomNumbers = Math.random();
-        System.out.println("Random number between 0 and 1 is :" + randomNumbers );
+        double min = 10;
+        double max = 15;
+        double randomNumbers = Math.random() * (max-min) + min;
+        System.out.println("Random number between is :" + randomNumbers );
 
         //Question 8:
         int minutesInHour = 60;
@@ -63,6 +65,28 @@ public class MathApp {
 
         System.out.println("Minutes in 24 days: " + minutesIn24Days);
         System.out.println("Milliseconds in 24 days: " + millisecondsIn24Days);
+
+        //Common placeholders:
+
+        //%d → integer
+        //%f → floating-point number
+        //%s → string
+        //%n → newline
+        int age = 20;
+        double score = 95.5;
+        String name = "Ares";
+
+        String result = String.format("Name: %s, Age: %d, Score: %.1f", name, age, score);
+        System.out.print(result);
+        System.out.println("His age is :" + age);
+
+
+
+
+           
+            }
+
+
 
 
 
