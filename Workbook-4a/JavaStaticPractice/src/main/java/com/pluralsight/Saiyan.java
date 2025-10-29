@@ -41,7 +41,7 @@ public class Saiyan {
     //Show stats of Goku
     public void showStats() {
         //non-static is values that belongs to the object
-        // static measn generic information not a particilar saiyan or object.
+        // static means generic information not a particilar saiyan or object.
 
         System.out.println("Name: " + this.name);
         System.out.println("Powerlevel: " + this.powerlevel);
