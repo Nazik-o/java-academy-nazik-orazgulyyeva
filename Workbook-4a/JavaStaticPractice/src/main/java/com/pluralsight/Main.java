@@ -24,3 +24,4 @@ public class Main {
         System.out.println("Let's save the princess!");
     }
 }
+
