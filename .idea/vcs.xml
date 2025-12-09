@@ -2,5 +2,15 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workBook-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workBook-2/CellPhoneService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workBook-2/PowerPuffGirls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-1b/RecapWeek-1-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-1d/ex-demo-tool/Demo-cats" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-8/App.java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-8/LoggerExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-8/PropertyManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-8/jdbc-dealership-project" vcs="Git" />
   </component>
 </project>

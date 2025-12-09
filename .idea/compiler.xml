@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Ex-cats" />
         <module name="workbook-1b" />
+        <module name="ex-demo-from-teacher" />
         <module name="workbook-1c" />
         <module name="ex-demo-tool" />
       </profile>
@@ -16,6 +17,7 @@
       <module name="ex-demos-from-teacher" target="17" />
       <module name="HelloWorld" target="17" />
       <module name="workbook-1a" target="17" />
+      <module name="workbook-1d" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

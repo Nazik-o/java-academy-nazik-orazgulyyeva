@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d022833-2da9-4422-be63-e27bd40b21dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BreakingBad-Inheritance/src/main/java/com/pluralsight/WalterWhite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workbook-4a/JavaStaticPractice/src/main/java/com/pluralsight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workbook-4a/JavaStaticPractice/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workbook-4a/JavaStaticPractice/src/main/java/com/pluralsight/Saiyan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workbook-4a/JavaStaticPractice/src/main/java/com/pluralsight/Saiyan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workBook-2" beforeDir="false" afterPath="$PROJECT_DIR$/../workBook-2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workbook-1b/RecapWeek-1-project" beforeDir="false" afterPath="$PROJECT_DIR$/../workbook-1b/RecapWeek-1-project" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nazik-o"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nazik-o/java-academy-nazik-orazgulyyeva",
+    "accountId": "19b4b16d-2d44-46fa-889d-3bd78d155448"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="34iD1AMY1KYjmIWXYZi6hhPJExu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/nazikorazgulyyeva/pluralsight/java-academy-nazik-orazgulyyeva/Workboo5A/src/main/java/com/pluralsight/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d022833-2da9-4422-be63-e27bd40b21dd" name="Changes" comment="" />
+      <created>1761687281156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761687281156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pluralsight/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
